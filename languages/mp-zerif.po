@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-01 15:43+0300\n"
+"PO-Revision-Date: 2016-08-01 15:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:41
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:139
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:147
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:172
+msgid "Theme Red"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:45
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:73
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:121
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:141
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:155
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:180
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:206
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:211
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:225
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:242
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:247
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:255
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:275
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:305
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:323
+msgid "Theme Green"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:49
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:77
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:125
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:140
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:151
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:176
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:205
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:210
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:221
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:241
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:246
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:254
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:271
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:301
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:322
+msgid "Theme Blue"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:53
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:81
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:129
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:142
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:159
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:184
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:207
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:212
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:229
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:243
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:248
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:256
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:279
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:309
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:324
+msgid "Theme Yellow"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:69
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:117
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:204
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:209
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:217
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:240
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:245
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:253
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:267
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:297
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:321
+msgid "Theme Brand"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:94
+msgid "Light"
+msgstr ""
+
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:239
+#: includes/motopress/MP_Zerif_MP_Motopress_Init.php:252
+msgid "Theme White"
+msgstr ""
